@@ -9,6 +9,8 @@ Sample website with plenty of files for demos
 
 ## Introduction
 
+This is an example to show different parts of GIT Repository and various commandsusing a web project.
+
 ## Deployment 
 
 ## How to contribute
