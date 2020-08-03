@@ -18,3 +18,7 @@ This is an example to show different parts of GIT Repository and various command
 This is a simple web project, deployment can be on any web serveror even local file system.
 
 ## How to contribute
+
+### Copyright
+
+2020 Git.training.
