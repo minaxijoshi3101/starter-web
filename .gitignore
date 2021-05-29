@@ -1,4 +1,2 @@
 ignorefile.txt
-log/
-*.orig
-robots.txt
+/log
